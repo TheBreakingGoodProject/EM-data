@@ -15,3 +15,5 @@ Describe what happened.
 How did this affect the accessibility of the medicine?
 
 Reference.
+
+*Don't forget to add a label!*
