@@ -7,13 +7,22 @@ labels: ''
 assignees: ''
 
 ---
+**1. Which medicine are you researching?**
+_Add the medicine as milestone -->_
 
-When did the event happen?
+**2. Describe what happened.**
 
-Describe what happened.
 
-How did this affect the accessibility of the medicine?
+**3. When did it happen?**
 
-Reference.
 
-*Don't forget to add a label!*
+**4. How did this impact the accessibility of the medicine?**
+
+
+**5. Categorise your findings**
+_Add the type of event or impact as a label -->_
+
+**6. Reference.**
+
+
+
